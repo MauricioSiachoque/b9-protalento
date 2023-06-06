@@ -1,0 +1,27 @@
+header{
+    background-color:aqua;
+}
+
+main{
+background-color: azure;
+
+}
+
+ul{
+    background-color: blueviolet;
+    
+}
+
+.cabecera_1{                                                    /*es donde se edita cada clase, en el html tiene que declararla*/
+    text-align: center;                                         /*es para alineaar el texto*/
+    font-size: 30px;                                            /*es para el tamaño el texto*/ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;           /*es para el tipo el texto*/
+    color: blue;                                              /*es el color del texto*/
+}
+
+.primer_p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:red;
+}
+
